@@ -1,0 +1,99 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtu.be/XHayZHZPe48",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Kimberly Huffaker",
+  "presiding": "Bishop Brandon Kent",
+  "conducting": "Bishop Brandon Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Paul Kessler"
+  },
+  "benediction": {
+    "type": "Invocation",
+    "name": "Chase Roberts"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "The Day Dawn Is Breaking",
+    "number": 52,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/the-day-dawn-is-breaking?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "With Humble Heart",
+    "number": 171,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/with-humble-heart?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "I Know My Father Lives",
+    "number": 302,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/i-know-my-father-lives?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Paul Cox"
+    },
+    {
+      "type": "Speaker",
+      "name": "Steven Ray"
+    },
+    {
+      "type": "Speaker",
+      "name": "Lisa Brandt"
+    },
+    {
+      "type": "Speaker",
+      "name": "Mike Cooley"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": ["Jade Overstreet", "Holly Kolstad"],
+      "title": "\"My Heavenly Father Loves Me\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Sheldon Webb"
+    },
+    {
+      "type": "Speaker",
+      "name": "Jim Stewart"
+    },
+    {
+      "type": "Speaker",
+      "name": "Sabrina Hulse"
+    },
+    {
+      "type": "Speaker",
+      "name": "Lauren Ashby"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Stake",
+      "announcements": [
+        "Next week is Stake Conference, with the adult session beginning on Saturday at 7pm and the regular session on Sunday at 10am."
+      ]
+    },
+    {
+      "organization": "Bishopric",
+      "announcements": [
+        "The Bishopric will be holding interviews for FSY today after church at the clerks office. All youth planning on attending FSY will need to be interviewed first. Registration begins on the 25th at 9am.",
+        ""
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMovins": [],
+    "Other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
